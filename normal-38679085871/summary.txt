@@ -1,0 +1,22 @@
+PASS  every binary and plugin resolves its libraries
+PASS  Qt has a native Wayland platform plugin
+INFO  PulseAudio running (null speakers + virtual mic)
+PASS  first start: main window shown
+PASS  stream key saved encrypted
+PASS  stream key not stored in plain text anywhere in the profile
+PASS  recording before going live: file written
+PASS  while live, stream key not in plain text anywhere in the profile
+PASS  streamed to RTMP server: 752 video frames, audio=yes
+INFO  Go Live used the direct path (no PRISM registration)
+PASS  dropped connection: HopCast tried to reconnect
+INFO  recording written to 2026-10-15 04-07-05.mkv (12.366000 s)
+PASS  recording plays back (12.366000 s)
+PASS  Ctrl+Q quits cleanly (exit 0)
+PASS  second start (same profile): main window shown
+PASS  saved channel loaded without secure-store errors
+PASS  second run quits cleanly
+PASS  8 starts in a row, all reached the main window
+PASS  8 quits in a row, all clean
+PASS  Wayland (native Qt platform): still running after 45 s
+INFO  Wayland graphics/platform errors: see wayland-errors.txt
+INFO  51 distinct warning/error lines in the app logs (log-problems.txt)

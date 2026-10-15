@@ -1,0 +1,79 @@
+Date: 2026-10-15 UTC
+[04:09:04.067] weston 13.0.0
+               https://wayland.freedesktop.org
+               Bug reports to: https://gitlab.freedesktop.org/wayland/weston/issues/
+               Build: 13.0.0
+[04:09:04.067] Command line: weston --backend=headless-backend.so --socket=hopcast-wl --idle-time=0 --width=1600 --height=900
+[04:09:04.067] OS: Linux, 6.17.0-1022-azure, #22-Ubuntu SMP Mon Jul 27 17:24:03 UTC 2026, x86_64
+[04:09:04.067] Flight recorder: enabled
+[04:09:04.067] Starting with no config file.
+[04:09:04.067] Output repaint window is 7 ms maximum.
+[04:09:04.067] Loading module '/usr/lib/x86_64-linux-gnu/libweston-13/headless-backend.so'
+[04:09:04.071] Registered plugin API 'weston_windowed_output_api_v2' of size 16
+[04:09:04.071] Color manager: no-op
+[04:09:04.071] Output 'headless' attempts EOTF mode: SDR
+[04:09:04.071] Output 'headless' using color profile: stock sRGB color profile
+[04:09:04.071] Output 'headless' enabled with head(s) headless
+[04:09:04.071] Compositor capabilities:
+               arbitrary surface rotation: no
+               screen capture uses y-flip: no
+               cursor planes: no
+               arbitrary resolutions: no
+               view mask clipping: no
+               explicit sync: no
+               color operations: no
+               presentation clock: CLOCK_MONOTONIC_RAW, id 4
+               presentation clock resolution: 0.000000001 s
+[04:09:04.071] Loading module '/usr/lib/x86_64-linux-gnu/weston/desktop-shell.so'
+[04:09:04.072] launching '/usr/libexec/weston-keyboard'
+[04:09:04.072] launching '/usr/libexec/weston-desktop-shell'
+could not load cursor 'dnd-move'
+could not load cursor 'dnd-copy'
+could not load cursor 'dnd-none'
+could not load cursor 'dnd-move'
+could not load cursor 'dnd-copy'
+could not load cursor 'dnd-none'
+[04:09:10.385] Ignoring client subsurface offset
+               Warning: the above message will not be printed again.
+[04:09:10.388] Ignoring client subsurface offset
+               Warning: the above message will not be printed again.
+[04:09:10.388] Ignoring client subsurface offset
+               Warning: the above message will not be printed again.
+[04:09:10.389] Ignoring client subsurface offset
+               Warning: the above message will not be printed again.
+[04:09:10.391] Ignoring client subsurface offset
+               Warning: the above message will not be printed again.
+[04:09:10.394] Ignoring client subsurface offset
+               Warning: the above message will not be printed again.
+[04:09:10.396] Ignoring client subsurface offset
+               Warning: the above message will not be printed again.
+[04:09:10.397] Ignoring client subsurface offset
+               Warning: the above message will not be printed again.
+[04:09:10.397] Ignoring client subsurface offset
+               Warning: the above message will not be printed again.
+[04:09:10.397] Ignoring client subsurface offset
+               Warning: the above message will not be printed again.
+[04:09:10.397] Ignoring client subsurface offset
+               Warning: the above message will not be printed again.
+[04:09:10.398] Ignoring client subsurface offset
+               Warning: the above message will not be printed again.
+[04:09:10.398] Ignoring client subsurface offset
+               Warning: the above message will not be printed again.
+[04:09:10.398] Ignoring client subsurface offset
+               Warning: the above message will not be printed again.
+[04:09:10.398] Ignoring client subsurface offset
+               Warning: the above message will not be printed again.
+[04:09:10.398] Ignoring client subsurface offset
+               Warning: the above message will not be printed again.
+[04:09:10.398] Ignoring client subsurface offset
+               Warning: the above message will not be printed again.
+[04:09:10.398] Ignoring client subsurface offset
+               Warning: the above message will not be printed again.
+[04:09:10.409] Ignoring client subsurface offset
+               Warning: the above message will not be printed again.
+[04:09:10.410] Ignoring client subsurface offset
+               Warning: the above message will not be printed again.
+[04:09:10.412] Ignoring client subsurface offset
+               Warning: the above message will not be printed again.
+[04:09:57.170] caught signal 15
+[04:09:57.171] no-op renderer SHM seed: 181
