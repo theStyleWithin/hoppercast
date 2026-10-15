@@ -1,0 +1,3 @@
+-rw-r--r-- 1 runner runner 0 2026-10-15 04:47:09.810829251 +0000 /home/runner/work/hoppercast/hoppercast/build/audit/.start-marker
+2026-10-15 04:45:53.8499231220 1427 /home/runner/work/hoppercast/hoppercast/build/audit/home/.config/PRISMLiveStudio/global.ini
+2026-10-15 04:45:45.1189680080 256 /home/runner/work/hoppercast/hoppercast/build/audit/home/.config/pulse/cookie
